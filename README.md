@@ -16,12 +16,12 @@ The goal of this repository is to document my hands-on practice with network con
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Subnetting Labs          | <a href="https://google.com">Detection Lab</a>|
-| VLAN Labs                | <a href="https://google.com">Detection Lab</a>|
-| Routing Labs             | SOC Automation Lab|
-| Troubleshooting Labs     | SOC Automation Lab|
-| Inter-VLAN Routing Labs  | SOC Automation Lab|
-| Network Security Labs    | SOC Automation Lab|
+| Subnetting Lab          | <a href="https://github.com/Byron-Oleche/Subnetting-Lab/tree/main">Subnetting Lab</a>|
+| VLAN Lab                | <a href="https://google.com">Detection Lab</a>|
+| Routing Lab             | SOC Automation Lab|
+| Troubleshooting Lab     | SOC Automation Lab|
+| Inter-VLAN Routing Lab  | SOC Automation Lab|
+| Network Security Lab    | SOC Automation Lab|
 
 ## Tools Used
 - Cisco Packet Tracer
@@ -33,6 +33,7 @@ The goal of this repository is to document my hands-on practice with network con
 
 ### Subnetting Labs
 Practice dividing networks into smaller subnets and assigning IP addresses.
+<a href="https://github.com/Byron-Oleche/Subnetting-Lab/tree/main">Subnetting Lab Example</a>
 
 ### VLAN Labs
 Configuring VLANs and trunk ports on switches.
