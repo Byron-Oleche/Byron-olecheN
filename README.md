@@ -14,12 +14,14 @@ The goal of this repository is to document my hands-on practice with network con
 
 ## Skills Practiced
 
-- IP Addressing and Subnetting
-- VLAN Configuration
-- Inter-VLAN Routing
-- Static Routing
-- OSPF
-- Network Troubleshooting
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Subnetting Labs          | <a href="https://google.com">Detection Lab</a>|
+| VLAN Labs                | <a href="https://google.com">Detection Lab</a>|
+| Routing Labs             | SOC Automation Lab|
+| Troubleshooting Labs     | SOC Automation Lab|
+| Inter-VLAN Routing Labs  | SOC Automation Lab|
+| Network Security Labs    | SOC Automation Lab|
 
 ## Tools Used
 - Cisco Packet Tracer
@@ -40,6 +42,12 @@ Configuring static routes and OSPF between routers.
 
 ### Troubleshooting Labs
 Diagnosing and fixing network connectivity problems.
+
+### Inter-VLAN Routing Labs
+Enabling communication between VLANs using a Layer 3 switch or router-on-a-stick configuration.
+
+### Network Security Labs
+Configuring port security, access control lists (ACLs), and basic firewall rules to protect network infrastructure.
 
 ## Purpose
 
