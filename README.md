@@ -17,11 +17,13 @@ The goal of this repository is to document my hands-on practice with network con
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Subnetting Lab          | <a href="https://github.com/Byron-Oleche/Subnetting-Lab/tree/main">Subnetting Lab</a>|
-| VLAN Lab                | <a href="https://google.com">Detection Lab</a>|
-| Routing Lab             | SOC Automation Lab|
-| Troubleshooting Lab     | SOC Automation Lab|
-| Inter-VLAN Routing Lab  | SOC Automation Lab|
-| Network Security Lab    | SOC Automation Lab|
+| VLAN Lab                | <a href="https://google.com">VLAN Lab</a>|
+| Routing Lab             | Routing Lab|
+| Troubleshooting Lab     | Troubleshooting Lab|
+| Inter-VLAN Routing Lab  | Inter-VLAN Routing Lab|
+| Network Security Lab    | Network Security Lab|
+| Network Automation Lab  | Network Automation Lab|
+
 
 ## Tools Used
 - Cisco Packet Tracer
